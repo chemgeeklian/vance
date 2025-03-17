@@ -1,0 +1,38 @@
+[gd_scene load_steps=4 format=3 uid="uid://cum0hkle61rh2"]
+
+[ext_resource type="Script" uid="uid://ct23srd5us81k" path="res://story.gd" id="1_76aiv"]
+[ext_resource type="Texture2D" uid="uid://upab8r3ct03m" path="res://Asset/story1.png" id="2_27gb3"]
+[ext_resource type="Script" uid="uid://onqa2pj1qycs" path="res://control_story.gd" id="3_bwkhw"]
+
+[node name="story" type="Node2D"]
+script = ExtResource("1_76aiv")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(562, 328)
+scale = Vector2(0.436248, 0.436248)
+texture = ExtResource("2_27gb3")
+
+[node name="Button" type="Button" parent="Sprite2D"]
+offset_left = 978.8
+offset_top = -664.759
+offset_right = 1049.8
+offset_bottom = -633.759
+scale = Vector2(4, 4)
+text = "SKIP"
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+script = ExtResource("3_bwkhw")
+
+[node name="Label" type="Label" parent="Control"]
+layout_mode = 0
+offset_left = 259.0
+offset_top = 506.0
+offset_right = 299.0
+offset_bottom = 529.0
+scale = Vector2(1.4, 1.4)
+
+[connection signal="pressed" from="Sprite2D/Button" to="." method="_on_button_pressed"]
