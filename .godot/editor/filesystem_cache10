@@ -1,16 +1,16 @@
 fc8a56933c4b1c8d796fdb8f7a9f9475
-::res://::1742181472
+::res://::1742183063
 badend.gd::GDScript/GDScript::1972351839560272654::1742179933::0::1::::<>Node2D<><>0<>0<><>::
 badend.tscn::PackedScene/PackedScene::3388539158536132177::1742174799::0::1::::<><><>0<>0<><>::uid://3dol1ycvebgo::::res://badend.gd<>uid://bpj4frm6duna4::::res://Asset/vance2.png<>uid://yi0lbjxese6s::::res://Asset/garbage.png
-control_story.gd::GDScript/GDScript::1010453635366334262::1742177846::0::1::::<>Control<><>0<>0<><>::
+control_story.gd::GDScript::1010453635366334262::1742181721::0::1::::<>Control<><>0<>0<><>::
 deadend.gd::GDScript/GDScript::8393272400871781986::1742179936::0::1::::<>Node2D<><>0<>0<><>::
 deadend.tscn::PackedScene/PackedScene::3821239969230228873::1742180558::0::1::::<><><>0<>0<><>::uid://drt078rs8m6hi::::res://deadend.gd<>uid://bpj4frm6duna4::::res://Asset/vance2.png<>uid://cuxjo3ydqrcrv::::res://Asset/de.png<>uid://dlxpuv5naqsa4::::res://Asset/egg_2.png
-export_presets.cfg::TextFile/TextFile::-1::1742180479::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1742182213::0::1::::<><><>0<>0<><>::
 goodend.gd::GDScript/GDScript::6082548364630830718::1742142054::0::1::::<>Node2D<><>0<>0<><>::
 goodend.tscn::PackedScene/PackedScene::709952935860230979::1742174799::0::1::::<><><>0<>0<><>::uid://cswoxhop45jby::::res://goodend.gd<>uid://bg32xjju36rfs::::res://Asset/Story2.png
 icon.svg::CompressedTexture2D/CompressedTexture2D::5637312377395574624::1742142054::1742142440::1::::<><><>0<>0<>4ac97d2df21d8b02f7ae1f66685e49bc<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 scene.gd::GDScript/GDScript::4542551924696072882::1742178048::0::1::::<>Node2D<><>0<>0<><>::
-scene.tscn::PackedScene/PackedScene::9150792405291797792::1742176457::0::1::::<><><>0<>0<><>::uid://b5ypfwrc255ik::::res://scene.gd<>uid://dxfet0jbyo27k::::res://Asset/sm.jpg<>uid://bdl3hewmhrprm::::res://Asset/screen.png<>uid://dtvb8ysnf0xmm::::res://Asset/Vance3.png<>uid://cwfbo02d7l86e::::res://Asset/V_spirit.png<>uid://dlxpuv5naqsa4::::res://Asset/egg_2.png<>uid://c87fvha5u4p6a::::res://Asset/keyboard.png<>uid://3d5eoseyfg45::::res://Asset/singleegg.png
+scene.tscn::PackedScene::9150792405291797792::1742181830::0::1::::<><><>0<>0<><>::uid://b5ypfwrc255ik::::res://scene.gd<>uid://dxfet0jbyo27k::::res://Asset/sm.jpg<>uid://bdl3hewmhrprm::::res://Asset/screen.png<>uid://dtvb8ysnf0xmm::::res://Asset/Vance3.png<>uid://cwfbo02d7l86e::::res://Asset/V_spirit.png<>uid://dlxpuv5naqsa4::::res://Asset/egg_2.png<>uid://c87fvha5u4p6a::::res://Asset/keyboard.png<>uid://3d5eoseyfg45::::res://Asset/singleegg.png
 story.gd::GDScript/GDScript::6163900714878082130::1742175680::0::1::::<>Node2D<><>0<>0<><>::
 story.tscn::PackedScene/PackedScene::6202921741022622925::1742179961::0::1::::<><><>0<>0<><>::uid://ct23srd5us81k::::res://story.gd<>uid://upab8r3ct03m::::res://Asset/story1.png<>uid://onqa2pj1qycs::::res://control_story.gd
 ::res://Asset/::1742177516
@@ -26,4 +26,3 @@ vance2.png::CompressedTexture2D/CompressedTexture2D::3459603372657790465::174214
 Vance3.png::CompressedTexture2D/CompressedTexture2D::8536322950194036536::1742163635::1742163708::1::::<><><>0<>0<>4fe94d8fd7de1c5dbb44d9b2e4930d10<>res://.godot/imported/Vance3.png-f22ab420dbda59df923184aa79130697.ctex::
 vanceFace.png::CompressedTexture2D/CompressedTexture2D::50586231869532758::1742142053::1742142440::1::::<><><>0<>0<>f562182c53b8c5ebc8978c36b8b80572<>res://.godot/imported/vanceFace.png-9b3a85a2f10c7cccf747d0a4646e099e.ctex::
 V_spirit.png::CompressedTexture2D/CompressedTexture2D::6327404889273661854::1742157733::1742157745::1::::<><><>0<>0<>22fc33efbc76cc84d057c6d55d70c45c<>res://.godot/imported/V_spirit.png-30d9b994122013554f806c5adc50f105.ctex::
-::res://export/::1742181166
