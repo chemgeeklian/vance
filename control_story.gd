@@ -17,7 +17,7 @@ var dialogues = [
 	"[Vance]\nAnd your second, and final, term is finally over.",
 	"[???]\n!!!Final?",
 	"[???]\nFake news! Maybe the most fake news ever!",
-	"[???]\n...Sir, calm down.",
+	"[Vance]\n...Sir, calm down.",
 	"[Vance]\nLet's just move on.",
 	"[Vance]\nNow we can go back to Ohio and drive pickup truck."
 ]
